@@ -1,0 +1,9 @@
+.hc-search{
+    padding:5em;
+}
+.hc-nav{
+    display:block;
+}
+.hc-nav > nav > div{
+    display: inline-block;
+}
